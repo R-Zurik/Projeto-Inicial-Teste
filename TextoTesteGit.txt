@@ -1,2 +1,3 @@
 Coisas para fazer:
 	- Adicionar arquivos ao Git
+	- Adicionar alterações em relação ao original
